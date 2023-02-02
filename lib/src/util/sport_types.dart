@@ -1,0 +1,5 @@
+
+enum SportTypes{
+  cricket,
+  kabaddi,
+}
